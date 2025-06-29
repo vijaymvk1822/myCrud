@@ -1,0 +1,12 @@
+{
+    "dependencies":{
+        "coldbox":"^7.4.1+22"
+    },
+    "installPaths":{
+        "coldbox":"coldbox/"
+    },
+    "location":"forgeboxStorage",
+    "name":"myCRUD",
+    "slug":"mycrud",
+    "version":"1.0.0"
+}

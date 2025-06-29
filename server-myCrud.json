@@ -1,0 +1,8 @@
+{
+    "name":"myCRUD",
+    "web":{
+        "rewrites":{
+            "enable":"true"
+        }
+    }
+}

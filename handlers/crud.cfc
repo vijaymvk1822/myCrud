@@ -3,7 +3,6 @@
  * Implicit Functions: preHandler, postHandler, aroundHandler, onMissingAction, onError, onInvalidHTTPMethod
  */
 component extends="coldbox.system.EventHandler"{
-	test
 
 	this.prehandler_only 	= "";
 	this.prehandler_except 	= "";

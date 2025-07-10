@@ -16,10 +16,9 @@ component extends="coldbox.system.EventHandler"{
 	 * Display a listing of the resource
 	 */
 	function index( event, rc, prc ){
-
+		writeDump(now());
+		abort;
 	}
-
-
 
 }
 
